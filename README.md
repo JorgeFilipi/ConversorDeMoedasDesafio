@@ -69,8 +69,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - Aura G8 ONE
 - Oracle
 
-## Contato
+## 📞 Contato
 
-- **E-mail:** [jorgefelipe1986](mailto:jorgefelipe1986@gmail.com)
-- **E-mail:** [dev.jdias](mailto:dev.jdias@gmail.com)
-- **LinkedIn:** [Jorge Dias](https://www.linkedin.com/in/jorge-dias-66117629b/)
+📧 **E-mail:** [jorgefelipe1986](mailto:jorgefelipe1986@gmail.com)
+📧 **E-mail:** [dev.jdias](mailto:dev.jdias@gmail.com)
+🌐 **LinkedIn:** [Jorge Dias](https://www.linkedin.com/in/jorge-dias-66117629b/)
